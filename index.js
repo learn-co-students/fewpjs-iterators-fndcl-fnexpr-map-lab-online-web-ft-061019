@@ -20,4 +20,3 @@ function titleCased() {
   })
   return titleCasedTutorials
 }
-debugger
