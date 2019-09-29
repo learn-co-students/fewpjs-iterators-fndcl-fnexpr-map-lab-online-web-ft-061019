@@ -19,8 +19,4 @@ const titleCased = () => {
 })
 }
 
- //   return tutorials.toLowerCase().split(' ').map(function(tutorial) {
-//   return (tutorial.charAt(0).toUpperCase() + tutorial.slice(1))
-// }).join(' '); }
-
-// titleCased(tutorials)
+// this was a headache.
